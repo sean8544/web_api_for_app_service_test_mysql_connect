@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "WebApplication5/bin/Release/netcoreapp3.1/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0b0d40a3-9e2b-4c48-a57b-a45b9ce3bdda/resourceGroups/app-service-mysql/providers/Microsoft.Web/sites/sean-web-app"
+}

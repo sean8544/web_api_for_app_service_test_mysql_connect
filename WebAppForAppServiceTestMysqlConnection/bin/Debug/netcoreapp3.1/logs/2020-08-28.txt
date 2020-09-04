@@ -1,0 +1,13 @@
+2020-08-28 07:47:59.7966 INFO  Now listening on: http://localhost:5000  AsyncMethodBuilderCore.Start => <StartAsync>d__9.MoveNext => GenericWebHostService.StartAsync
+2020-08-28 07:47:59.8585 INFO  Application started. Press Ctrl+C to shut down.  <>c.<ExecuteCallback>b__9_0 => <>c.<WaitForStartAsync>b__20_0 => ConsoleLifetime.OnApplicationStarted
+2020-08-28 07:47:59.8633 INFO  Hosting environment: Development  <>c.<ExecuteCallback>b__9_0 => <>c.<WaitForStartAsync>b__20_0 => ConsoleLifetime.OnApplicationStarted
+2020-08-28 07:47:59.8708 INFO  Content root path: /Users/seanyu/Documents/sean-code/WebApplication5/WebApplication5  <>c.<ExecuteCallback>b__9_0 => <>c.<WaitForStartAsync>b__20_0 => ConsoleLifetime.OnApplicationStarted
+2020-08-28 07:50:43.2326 INFO  Now listening on: http://localhost:5000  AsyncMethodBuilderCore.Start => <StartAsync>d__9.MoveNext => GenericWebHostService.StartAsync
+2020-08-28 07:50:43.2838 INFO  Application started. Press Ctrl+C to shut down.  <>c.<ExecuteCallback>b__9_0 => <>c.<WaitForStartAsync>b__20_0 => ConsoleLifetime.OnApplicationStarted
+2020-08-28 07:50:43.2890 INFO  Hosting environment: Development  <>c.<ExecuteCallback>b__9_0 => <>c.<WaitForStartAsync>b__20_0 => ConsoleLifetime.OnApplicationStarted
+2020-08-28 07:50:43.2934 INFO  Content root path: /Users/seanyu/Documents/sean-code/WebApplication5/WebApplication5  <>c.<ExecuteCallback>b__9_0 => <>c.<WaitForStartAsync>b__20_0 => ConsoleLifetime.OnApplicationStarted
+2020-08-28 07:51:52.4977 INFO  NLog Strat API08/27/2020 23:51:52  ObjectMethodExecutor.Execute => <no type>.lambda_method => MySQLController.Get
+2020-08-28 07:53:50.6404 INFO  NLog Strat API08/27/2020 23:53:50  ObjectMethodExecutor.Execute => <no type>.lambda_method => MySQLController.Get
+2020-08-28 07:54:13.1363 INFO  NLog Strat API08/27/2020 23:54:13  ObjectMethodExecutor.Execute => <no type>.lambda_method => MySQLController.Get
+2020-08-28 07:56:11.4156 INFO  NLog Strat API08/27/2020 23:56:11  ObjectMethodExecutor.Execute => <no type>.lambda_method => MySQLController.Get
+2020-08-28 07:59:05.1345 INFO  NLog Strat API08/27/2020 23:59:05  ObjectMethodExecutor.Execute => <no type>.lambda_method => MySQLController.Get
